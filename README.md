@@ -12,9 +12,10 @@ This is a web based application developed for wedding related based website in i
 **Project Demo video link **-
 
 
-##Azure Technologies used for project 
+## Azure Technologies used for project 
 
--static web apps
+-static web apps 
+
 -Azure bot 
 
 
