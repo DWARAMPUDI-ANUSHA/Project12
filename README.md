@@ -31,11 +31,13 @@ This is a web based application developed for wedding related based website in i
 
 
 
+![Screenshot (5)](https://user-images.githubusercontent.com/116787594/208227883-95f95ca5-0f09-4ccb-8c31-288f6deecbf4.png)
 
 
 ## About us-
 
 
+![Screenshot (6)](https://user-images.githubusercontent.com/116787594/208227890-5c02016a-eba2-4936-8b73-714c04801b30.png)
 
 
 
@@ -43,6 +45,7 @@ This is a web based application developed for wedding related based website in i
 
 
 
+![Screenshot (7)](https://user-images.githubusercontent.com/116787594/208227893-286511fa-a2e4-4d01-a15d-c57731c98679.png)
 
 
 ###Contact Us-
@@ -50,6 +53,7 @@ This is a web based application developed for wedding related based website in i
 
 
 
+![Screenshot (8)](https://user-images.githubusercontent.com/116787594/208227904-499d7bc7-a76e-44da-8467-105a825c4001.png)
 
 
 
