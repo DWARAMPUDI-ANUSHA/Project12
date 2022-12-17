@@ -19,7 +19,7 @@ This is a web based application developed for wedding related based website in i
 -Azure bot 
 
 
-##Futures and Functionalities
+## Futures and Functionalities
 
 -Interactive and responsive UI.
 -Has many graphical and visual innovative effects.
