@@ -9,7 +9,7 @@ This is a web based application developed for wedding related based website in i
 
 ** Projectlink **-https://jolly-grass-098b25b00.2.azurestaticapps.net/
 
-**Project Demo video link **-
+**Project Demo video link **-https://youtu.be/wm0dzXxSDwA
 
 
 ## Azure Technologies used for project 
