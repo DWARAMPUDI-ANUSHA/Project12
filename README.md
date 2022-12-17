@@ -28,7 +28,7 @@ This is a web based application developed for wedding related based website in i
 -User can know about wedding information to this website.
 -Included the feedback survey form to increase the scope of improvement.
 
-##Screenshots
+## Screenshots
 
 
 
@@ -42,14 +42,14 @@ This is a web based application developed for wedding related based website in i
 
 
 
-###Services-
+### Services-
 
 
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/116787594/208227893-286511fa-a2e4-4d01-a15d-c57731c98679.png)
 
 
-###Contact Us-
+### Contact Us-
 
 
 
@@ -58,7 +58,7 @@ This is a web based application developed for wedding related based website in i
 
 
 
-##Tech Stack
+## Tech Stack
 
 
 
