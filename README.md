@@ -59,6 +59,14 @@ This is a web based application developed for wedding related based website in i
 
 
 
+### Bot
+
+
+
+
+
+![Screenshot (10)](https://user-images.githubusercontent.com/116787594/213869891-e9dc0380-63bd-4e9b-acab-374fffd9cd3c.png)
+
 ## Tech Stack
 
 
