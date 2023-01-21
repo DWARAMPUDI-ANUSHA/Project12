@@ -32,7 +32,8 @@ This is a web based application developed for wedding related based website in i
 
 
 
-![Screenshot (5)](https://user-images.githubusercontent.com/116787594/208227883-95f95ca5-0f09-4ccb-8c31-288f6deecbf4.png)
+
+![Screenshot (9)](https://user-images.githubusercontent.com/116787594/213869031-3806a458-122b-47d2-889b-920dd72b4672.png)
 
 
 ## About us-
